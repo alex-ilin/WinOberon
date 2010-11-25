@@ -1,0 +1,118 @@
+General ETH Oberon System Source License
+
+
+License Terms
+
+of the Swiss Federal Institute of Technology Zuerich (Eidgenoessische 
+Technische Hochschule Zuerich [ETHZ]), represented by Prof. Dr. Juerg 
+Gutknecht, Institute for Computer Systems, (hereafter Institute), 
+concerning the Source Code to the software ETH Oberon.
+
+
+Article 1  Subject
+
+Subject of these license terms is the source code of the software system
+ETH Oberon, hereafter referred to as source code.
+
+
+Article 2  Rights of the Licensee
+
+The Licensee shall be granted the right to use the source code in whole or in
+part for private use, for conversion to another platform or for production of
+an application software, to grant sub-licenses of the source code as well as,
+under the condition of Article 3, to adapt or to modify it. The Licensee 
+shall not be allowed to use the source code or derivatives thereof 
+commercially, unless this right has been granted explicitly.
+
+
+Article 3  Prohibition
+
+(1) The Licensee may not do either of the following
+    (a) modify the interfaces of the source code in any way that disagrees
+        with style and content of the system.
+    (b) produce conversions to another platform that disagree with style and
+        content of the system.
+
+(2) In case of doubt the Institute shall be asked for written consent.
+
+
+Article 4  Obligations of the Licensee
+
+(1) Sub-licenses must confer the identical legal position which is granted by
+the present license terms. The Sub-Licensee must therefore be entitled to
+the same rights and must be bound by the same obligations as well as by the
+same prohibition as the Licensee.
+
+(2) The source code of each module, also in each copy, must at the beginning
+refer to the present license terms as follows:
+
+  (* ETH Oberon, Copyright 2000 ETH Zuerich Institut fuer Computersysteme, 
+  ETH Zentrum, CH-8092 Zuerich. Refer to the "General ETH Oberon System 
+  Source License" contract available at: http://www.oberon.ethz.ch/ *)
+
+(3) The source code and each conversion resulting from its utilization must 
+be provided with the name Oberon and designate as author the "Team of the 
+Institute for Computer Systems of ETH Zuerich" at the beginning. Any further
+developments, updates and applications must be marked "based on Oberon".
+
+(4) Modifications by the Licensee are to be clearly identified.
+
+
+Article 5  Consequences of Infringements
+
+Each infringement of these license terms shall directly result in the loss of
+the rights granted in Article 2. There shall be no right to distribute those
+products which have been produced in violation of this contract.
+
+
+Article 6  Information
+
+(1) Upon request the Institute (e-mail: oberon@inf.ethz.ch) shall provide the
+Licensee with information on modifications, updates and further developments
+of the source code by the Institute.
+
+(2) Upon request the Licensee and each Sub-Licensee shall disclose to the
+Institute their applications, modifications, updates and further developments
+of the source code as well as the thereby gained experiences and knowledge.
+
+
+Article 7  Liability
+
+(1) The Institute does not assume any liability for damage directly or 
+indirectly caused by the application of the source code.
+
+(2) If a third party takes legal action based on infringement of its 
+protective rights by the Licensee's use of the source code, the contract
+party sued must immediately notify the other contract party. The Licensee is
+not entitled to conclude a settlement without the expressive and written 
+consent of the Institute.
+
+
+Article 8  Modifications
+
+The Institute may modify these license terms. The valid version may be
+downloaded or requested as mentioned in Article 4 sub-paragraph 2.
+
+
+Article 9  Validity and Duration of License
+
+(1) Upon receipt of the source code these license terms are deemed to be
+accepted.
+
+(2) By notification with registered mail, the Institute may withdraw the
+license or the sub-license with immediate effect.
+
+(3) The obligations of the licensee according to Articles 3 and 4 
+sub-paragraphs 2 - 4 shall remain effective even after the termination
+of the license.
+
+
+Article 10  Applicable Law and Place of Jurisdiction
+
+This Agreement is governed by Swiss law. Place of jurisdiction is Zuerich.
+
+
+For the Institute:
+
+Zuerich, May 10, 2000
+Juerg Gutknecht
