@@ -1,9 +1,9 @@
-ETH PlugIn Oberon for Windows 9x / ME / NT / 2000
+ETH PlugIn Oberon for Windows 9x / ME / NT / 2000 / XP
 
 Oberon is both the name of a programming language and operating system 
 developed at ETH Zuerich. This particular distribution contains an 
-implementation of ETH PlugIn Oberon Release 2.4 for Windows 9x / ME / NT / 
-2000.
+implementation of ETH PlugIn Oberon Release 2.5 for Windows 9x / ME /
+NT / 2000 / XP.
 
 
 SYSTEM REQUIREMENTS
@@ -17,7 +17,7 @@ Hardware:
     comfort.
 
 Software:
-  - Microsoft Windows 9x / ME / NT / 2000
+  - Microsoft Windows 9x / ME / NT / 2000 / XP
 
 
 INSTALLATION OF OBERON
@@ -96,7 +96,7 @@ Registry
 
 By default module Registry stores settings under the key:
 
-  HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4
+  HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5
 
 This key is constructed using the version resource entries "FileDescription" 
 and "FileVersion" found in oberon.exe (or oberon.dll). You can override the
@@ -238,7 +238,7 @@ Known Problems and Bugs in this Release
 LEGAL INFORMATION
 
 ETH Oberon & ETH PlugIn Oberon
-Copyright (C) 1990-2000 Institut fuer Computersysteme ETH Zuerich
+Copyright (C) 1990-2004 Institut fuer Computersysteme ETH Zuerich
 
 Permission to use, copy, modify or distribute this software and its 
 documentation for any purpose is hereby granted without fee, provided 

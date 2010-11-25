@@ -1,21 +1,21 @@
 REGEDIT4
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4]
-@="Registry Settings for ETH PlugIn Oberon, Release 2.4"
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5]
+@="Registry Settings for ETH PlugIn Oberon, Release 2.5"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Builder]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Builder]
 "AutoMark"="Yes"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Fonts]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Fonts]
 "Times"="\"Times_New_Roman\""
 "Default"="Syntax"
 "DefaultFont"="Syntax10.Scn.Fnt"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Gadgets]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Gadgets]
 "FixedDocs"="No"
 "Hardlook"="No"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Gadgets\Aliases]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Gadgets\Aliases]
 "Boolean"="BasicGadgets.NewBoolean"
 "Integer"="BasicGadgets.NewInteger"
 "String"="BasicGadgets.NewString"
@@ -79,8 +79,7 @@ REGEDIT4
 "Tree"="ListModels.NewTree"
 "Dag"="ListDags.New"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Gadgets\Documents]
-"zip"="UnZip.NewDoc"
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Gadgets\Documents]
 "Arc"="Compress.NewDoc"
 "Pict"="RembrandtDocs.NewDoc"
 "Lib"="Columbus.NewDoc"
@@ -88,10 +87,10 @@ REGEDIT4
 "html"="HTMLDocs.NewDoc"
 "htm"="HTMLDocs.NewDoc"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Gadgets\DocumentServices]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Gadgets\DocumentServices]
 "file"="HyperDocs.NewDoc"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Gadgets\FinderTemplates]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Gadgets\FinderTemplates]
 "System3"="System3.Tool"
 "Documents"="Documents.Panel"
 "Gadgets"="Gadgets.Panel"
@@ -104,7 +103,7 @@ REGEDIT4
 "New Log"="(TextDocs.NewLog)"
 "New Pict"="(RembrandtDocs.NewDoc)"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\HotKeys]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\HotKeys]
 "Clipboard.Copy"="CTRL Insert, CTRL C"
 "Clipboard.Paste"="SHIFT Insert, CTRL V"
 "Clipboard.Cut"="SHIFT Delete, CTRL X"
@@ -118,7 +117,8 @@ REGEDIT4
 "Miscellaneous.WriteChar 130"="CTRL SHIFT U"
 "Miscellaneous.WriteChar 150"="CTRL s"
 "Oberon.Setup"="F1, F7"
-"Oberon.Neutralize"="F2, F8"
+"Oberon.Neutralize"="F2"
+"Oberon.FlipNew"="F8"
 "Miscellaneous.Search"="F3"
 "TextDocs.SearchDiff \\W"="F4"
 "EditTools.FlipCase ^"="F5"
@@ -127,22 +127,22 @@ REGEDIT4
 "Windows.HideAll"="F10"
 "Windows.ShowAll"="F11"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\HTMLTags]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\HTMLTags]
 "MAP"="HTMLImages.NewMAP"
 "AREA"="HTMLImages.NewAREA"
 "IMG"="HTMLImages.NewIMG"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\LinkSchemes]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\LinkSchemes]
 "file"="HyperDocs.NewLinkScheme"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\MIME]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\MIME]
 "text/html"="html"
 "text/plain"="txt"
 "application/octet-stream"="\"\""
 "application/oberondoc"="\"\""
 "application/oberon"="\"\""
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\NetSystem]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\NetSystem]
 "Async"="Yes"
 "EMail"="\"<your e-mail address>\""
 "POP"="\"<your pop host>\""
@@ -153,46 +153,44 @@ REGEDIT4
 "NewsFont"="Courier10.Scn.Fnt"
 "NewsThreading"="On ;Off"
 "HTMLImages"="Yes ;No"
-"Topic0"="\"Miscellaneous\""
-"Topic1"="\"Bug Report\""
-"Topic2"="\"To Do\""
 "ProxyDomain"="\"<yourdomain>\""
 "HTTPProxy"="\"<yourproxyserver.yourdomain:port>\""
 "FTPProxy"="\"<yourproxyserver.yourdomain:port>\""
 "GopherProxy"="\"<yourproxyserver.yourdomain:port>\""
 "KeepURLs"="Yes"
 "TraceMail"="No"
+"LeaveOnServer"="No"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Packages\Configuration.Text]
-"Version"="2.32"
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\Configuration.Text]
+"Version"="2.45"
 "Date"="1.1.1980"
 "Time"="0:00:00"
 "Package"=""
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Packages\System.Tool]
-"Version"="2.32"
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\System.Tool]
+"Version"="2.45"
 "Date"="1.1.1980"
 "Time"="0:00:00"
 "Package"=""
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Packages\Mail.Panel]
-"Version"="2.32"
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\Mail.Panel]
+"Version"="2.45"
 "Date"="1.1.1980"
 "Time"="0:00:00"
 "Package"=""
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Packages\Network.Tool]
-"Version"="2.32"
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\Network.Tool]
+"Version"="2.45"
 "Date"="1.1.1980"
 "Time"="0:00:00"
 "Package"=""
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Printer]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Printer]
 "Default"="WinPrinter.Install"
 "DefaultName"="\"\""
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\Printer\PSPrinter]
-"Resolution"="300"
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Printer\PSPrinter]
+"Resolution"="600"
 "Arial"="Helvetica"
 "Width"="210 mm"
 "Height"="297 mm"
@@ -201,7 +199,7 @@ REGEDIT4
 "TopMargin"="1.5 cm"
 "BottomMargin"="1.5 cm"
 
-[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.4\System]
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\System]
 "Directories"="\"System;Obj;Src;Docu;Apps\""
 "Console"="\"None ; Console; Debugger; File; StdOut\""
 "Configuration"="Configuration.Text"
