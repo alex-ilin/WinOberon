@@ -162,27 +162,39 @@ REGEDIT4
 "LeaveOnServer"="No"
 
 [HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\Configuration.Text]
-"Version"="2.45"
+"Version"="2.0"
 "Date"="1.1.1980"
 "Time"="0:00:00"
 "Package"=""
 
 [HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\System.Tool]
-"Version"="2.45"
+"Version"="2.0"
 "Date"="1.1.1980"
 "Time"="0:00:00"
 "Package"=""
 
 [HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\Mail.Panel]
-"Version"="2.45"
+"Version"="2.0"
 "Date"="1.1.1980"
 "Time"="0:00:00"
 "Package"=""
 
 [HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\Network.Tool]
-"Version"="2.45"
+"Version"="2.0"
 "Date"="1.1.1980"
 "Time"="0:00:00"
+"Package"=""
+
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\Colors.Mod]
+"Version"="2.0"
+"Date"="1.1.1980"
+"Time"="00:00:00"
+"Package"=""
+
+[HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Packages\Colors.Obj]
+"Version"="2.0"
+"Date"="1.1.1980"
+"Time"="00:00:00"
 "Package"=""
 
 [HKEY_CURRENT_USER\Software\ETH PlugIn Oberon\Release 2.5\Printer]
