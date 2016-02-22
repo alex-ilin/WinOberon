@@ -1,0 +1,4 @@
+[diff "oberon2txt"]
+	textconv = oberon2txt.bat
+	xfuncname = "(PROCEDURE.*)"
+	cachetextconv = true

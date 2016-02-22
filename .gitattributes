@@ -1,0 +1,5 @@
+*.Errors diff=oberon2txt
+*.Link   diff=oberon2txt
+*.Mod    diff=oberon2txt
+*.Text   diff=oberon2txt
+*.Tool   diff=oberon2txt
